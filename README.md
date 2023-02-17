@@ -2,8 +2,11 @@
 
 ## 꾸준히 노력하는 사람이 개발자가 될 수 있다고 믿습니다.
 
-## 📖 Im Studying Now
-- Java
+<div align=left><h2>📚 STACKS</h1></div>
+
+<div align=left>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+</div>  
 
 ## ✍ Memo
 ### Velog : https://velog.io/@khj25830
