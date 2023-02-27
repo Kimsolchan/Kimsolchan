@@ -14,7 +14,3 @@
 
 ### Github : https://github.com/Kimsolchan
 - 깃허브는 주로 프로젝트, 풀이한 코드 위주로 업로드합니다.
-
-## My infomation
-### ✉ : solchangim@gmail.com
-### 📱 : 010-2596-3827
