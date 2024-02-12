@@ -1,7 +1,3 @@
-# 👋 Hi everyone
-
-## 꾸준히 노력하는 사람이 개발자가 될 수 있다고 믿습니다.
-
 <div align=left><h2>📚 STACKS</h1></div>
 
 <div align=left>
